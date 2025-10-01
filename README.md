@@ -1,5 +1,7 @@
-## 3rd year undergraduate lab focusing on MicroBooNE experiment
-### Developed by O.G. Finnerud, A. Kedziora, & J. Waiton
+### 3rd year undergraduate lab focusing on MicroBooNE experiment
+
+Myself and Yichao Wang have been working on this project.
+## Developed by O.G. Finnerud, A. Kedziora, & J. Waiton
 
 This folder contains almost everything that is needed to run the lab, including:
 
