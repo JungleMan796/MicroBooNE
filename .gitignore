@@ -1,1 +1,6 @@
-data/bnb_run3_mc_larcv.h5
+data/bnb_run3_mc_larcv_slimmed.h5
+data/data_flattened.pkl
+data/DataSet_LSND.csv
+data/DataSet_MiniBooNE.csv
+data/MC_EXT_flattened.pkl
+data/oscillated_data.pkl
