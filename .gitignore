@@ -7,4 +7,4 @@ data/MC_EXT_flattened.pkl
 data/oscillated_data.pkl
 
 # Ignore pycache from EventDisplay.py
-__pycache__/EventDisplay.cpython-39.pyc
+__pycache__/EventDisplay.cpython-311.pyc
