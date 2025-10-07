@@ -8,3 +8,4 @@ data/oscillated_data.pkl
 
 # Ignore pycache from EventDisplay.py
 __pycache__/EventDisplay.cpython-311.pyc
+__pycache__/Neutrino_functions.cpython-311.pyc
